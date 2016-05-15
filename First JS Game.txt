@@ -1,0 +1,28 @@
+<script>
+var question = 0;
+var question1 = 0;
+
+var question = prompt("Do you want to play a game?");
+if (question == "no") {
+if 
+(question === "no")
+ document.write("Bye");
+ alert(Bye);
+} 
+else {
+(question === "Yes"); 
+ alert("Great! Let's move on");
+ }
+ var question1 = prompt("What is the color of a Japanese maple leaf?");
+ if (question1 == "Red") {
+ }
+else {
+ if (question === "red");
+  alert("Great! You guessed correct");
+}
+ else {
+if (question != "red")
+ alert("Sorry! Try again");
+  }
+}
+</script>
